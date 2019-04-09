@@ -1,0 +1,27 @@
+C:\Users\FerencSchultesz\.nuget\packages\microsoft.aspnetcore.blazor\0.9.0-preview3-19154-02\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\FerencSchultesz\.nuget\packages\microsoft.aspnetcore.components\3.0.0-preview3-19153-02\lib\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\FerencSchultesz\.nuget\packages\microsoft.aspnetcore.components.browser\3.0.0-preview3-19153-02\lib\netstandard2.0\Microsoft.AspNetCore.Components.Browser.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.csharp\4.0.1\lib\netstandard1.3\Microsoft.CSharp.dll
+C:\Users\FerencSchultesz\.nuget\packages\microsoft.extensions.dependencyinjection\3.0.0-preview3.19153.1\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FerencSchultesz\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\3.0.0-preview3.19153.1\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FerencSchultesz\.nuget\packages\microsoft.jsinterop\3.0.0-preview3.19153.1\lib\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\FerencSchultesz\.nuget\packages\mono.webassembly.interop\3.0.0-preview3.19153.1\lib\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\FerencSchultesz\.nuget\packages\newtonsoft.json\9.0.1\lib\netstandard1.0\Newtonsoft.Json.dll
+C:\Users\FerencSchultesz\.nuget\packages\stripe.net\25.4.0\lib\netstandard2.0\Stripe.net.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.collections.immutable\1.5.0\lib\netstandard2.0\System.Collections.Immutable.dll
+C:\Users\FerencSchultesz\.nuget\packages\system.componentmodel.annotations\4.6.0-preview3.19128.7\lib\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.dynamic.runtime\4.0.11\lib\netstandard1.3\System.Dynamic.Runtime.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.io.filesystem.primitives\4.0.1\lib\netstandard1.3\System.IO.FileSystem.Primitives.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.linq\4.1.0\lib\netstandard1.6\System.Linq.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.linq.expressions\4.1.0\lib\netstandard1.6\System.Linq.Expressions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.objectmodel\4.0.12\lib\netstandard1.3\System.ObjectModel.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit\4.0.1\lib\netstandard1.3\System.Reflection.Emit.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.ilgeneration\4.0.1\lib\netstandard1.3\System.Reflection.Emit.ILGeneration.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.lightweight\4.0.1\lib\netstandard1.3\System.Reflection.Emit.Lightweight.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.typeextensions\4.1.0\lib\netstandard1.5\System.Reflection.TypeExtensions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.runtime.serialization.primitives\4.1.1\lib\netstandard1.3\System.Runtime.Serialization.Primitives.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.text.regularexpressions\4.1.0\lib\netstandard1.6\System.Text.RegularExpressions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.threading\4.0.11\lib\netstandard1.3\System.Threading.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.threading.tasks.extensions\4.0.0\lib\netstandard1.0\System.Threading.Tasks.Extensions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.xml.readerwriter\4.0.11\lib\netstandard1.3\System.Xml.ReaderWriter.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.xml.xdocument\4.0.11\lib\netstandard1.3\System.Xml.XDocument.dll
